@@ -1,0 +1,19 @@
+[
+   {
+      "internalName":"tobadditions",
+      "hash":"d1f3fe8dc8136b10d7795c6f06865161dc2afc6b5523ca396403907ab5aa3b30",
+      "size":339089,
+      "plugins":[
+         "net.runelite.client.plugins.tob.TobAdditionsPlugin"
+      ],
+      "displayName":"Tob additions",
+      "description":"some shitty plugin",
+      "provider":"test",
+	  "releases":[
+	     {
+	  	    "url":"https://github.com/uuidguy32/a3526cfd-25aa-4edf-b566-09015879ff08/raw/main/test/tobadditions.jar",
+	  	    "sha512sum":"d1f3fe8dc8136b10d7795c6f06865161dc2afc6b5523ca396403907ab5aa3b30"
+	     }
+	  ]
+   }
+]
