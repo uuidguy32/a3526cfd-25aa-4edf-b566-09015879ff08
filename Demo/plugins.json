@@ -2,11 +2,11 @@
    {
       "internalName":"tobqol",
       "hash":"98c9bc59067e88bf7a80a084331e4821579094778696befeae787d155bea0616",
-      "size":754831,
+      "size":781366,
       "plugins":[
-         "com.tobqol.TheatreQOLPlugin"
+         "com.tobqol.TheatreQOLPluginMirror"
       ],
-      "displayName":"Tob QOL",
+      "displayName":"Tob QOL NEW",
       "description":"Tob QOL with some extras",
       "provider":"test"
    }
