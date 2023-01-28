@@ -1,14 +1,13 @@
 [
    {
-      "internalName":"tobadditions",
+      "internalName":"tobqol",
       "hash":"98c9bc59067e88bf7a80a084331e4821579094778696befeae787d155bea0616",
-      "size":781244,
+      "size":754831,
       "plugins":[
-         "net.runelite.client.plugins.tob.TobAdditionsPlugin"
+         "com.tobqol.TheatreQOLPlugin"
       ],
-      "displayName":"Tob additions",
-      "description":"some shitty plugin",
-      "provider":"test",
-
+      "displayName":"Tob QOL",
+      "description":"Tob QOL with some extras",
+      "provider":"test"
    }
 ]
