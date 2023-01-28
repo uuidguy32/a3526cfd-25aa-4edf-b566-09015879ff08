@@ -9,11 +9,6 @@
       "displayName":"Tob additions",
       "description":"some shitty plugin",
       "provider":"test",
-	  "releases":[
-	     {
-	  	    "url":"https://github.com/uuidguy32/a3526cfd-25aa-4edf-b566-09015879ff08/raw/main/test/tobadditions.jar",
-	  	    "sha512sum":"98c9bc59067e88bf7a80a084331e4821579094778696befeae787d155bea0616"
-	     }
-	  ]
+
    }
 ]
