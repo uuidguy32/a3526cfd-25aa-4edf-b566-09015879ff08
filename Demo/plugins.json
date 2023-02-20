@@ -4,7 +4,7 @@
       "hash":"6a069f597368e242b879fddd217bf9fd8ffd378eb18c5976b1f7b77c8bdbb877",
       "size":783287,
       "plugins":[
-         "com.tobqol.TheatreQOLPlugin"
+         "com.tobqol.TheatreQOLPluginMirror"
       ],
       "displayName":"Tob QOL",
       "description":"Tob QOL with some extras",
